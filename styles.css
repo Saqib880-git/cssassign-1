@@ -1,0 +1,77 @@
+body{
+    font-family: sans-serif;
+    background-color:#FFE5B4;
+}
+
+header{
+    background-color:#810a17;
+    text-align: center;
+    color: white;
+}
+
+h2{
+    color:#FFE5B4;
+    font-size: 30px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+li{
+    background-color:#FFF2D7;
+    color:#810a17;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.bestseller{
+    font-weight: bold;
+    color:#990011;
+
+}
+
+#fiction{
+    background-color:#990011;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#fiction li{
+    background-color: peachpuff;
+}
+
+#fiction .bestseller{
+    background-color:rgb(200, 146, 99);
+}
+
+#non-fiction li{
+    background-color:  rgb(206, 156, 113);
+}
+
+#non-fiction .bestseller{
+    background-color:rgb(236, 173, 117);
+}
+
+#non-fiction{
+    background-color:#810a17;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
+
+.student-name{
+    font-weight: bold;
+    color:#990011;
+
+
+}
